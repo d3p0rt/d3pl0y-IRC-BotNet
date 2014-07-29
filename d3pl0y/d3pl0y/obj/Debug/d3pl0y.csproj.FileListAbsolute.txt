@@ -1,0 +1,6 @@
+c:\users\ghost\documents\visual studio 2012\Projects\d3pl0y\d3pl0y\bin\Debug\d3pl0y.exe.config
+c:\users\ghost\documents\visual studio 2012\Projects\d3pl0y\d3pl0y\obj\Debug\d3pl0y.csprojResolveAssemblyReference.cache
+c:\users\ghost\documents\visual studio 2012\Projects\d3pl0y\d3pl0y\bin\Debug\d3pl0y.exe
+c:\users\ghost\documents\visual studio 2012\Projects\d3pl0y\d3pl0y\bin\Debug\d3pl0y.pdb
+c:\users\ghost\documents\visual studio 2012\Projects\d3pl0y\d3pl0y\obj\Debug\d3pl0y.exe
+c:\users\ghost\documents\visual studio 2012\Projects\d3pl0y\d3pl0y\obj\Debug\d3pl0y.pdb
