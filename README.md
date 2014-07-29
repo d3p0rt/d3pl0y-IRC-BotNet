@@ -6,6 +6,7 @@ A C# irc bot malware POC.
 Connects to an IRC server and receives commands.
 
 !version - Bot version
+
 !schrome - Begins a file transfer of a users chrome login data
 !die - kills the bot
 !mbox!The message - Shows a message box on the victim pc.
